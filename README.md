@@ -5,8 +5,7 @@
 <p>
   I worked on this project in September 2020.
   <br>
-  [asd](https://guides.github.com/features/mastering-markdown/)
   The project structure is highly inefficient, hard to scale and prevents unit testing.
   <br>
-  I am constantly working on improving my skills and in my next project You can even([DeliveriesDemo](https://github.com/poiasd3241/DeliveriesDemo.git)) I implemented MVVM design pattern as well as Dependency Injection.
+  I am constantly working on improving my skills and in my next project (https://github.com/poiasd3241/DeliveriesDemo) I implemented MVVM design pattern as well as Dependency Injection.
 <p/>
