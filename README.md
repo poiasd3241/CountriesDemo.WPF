@@ -1,8 +1,6 @@
 # CountriesDemo.WPF
 <p>
-  In this WPF .NET Core app I practiced API requests and deserializing API responses,
-  <br>
-  as well as CRU of CRUD using SQL Server database and Dapper.
+  In this WPF .NET Core app I practiced API requests and deserializing API responses as well as working with SQL Server database.
 <p/>
 <p>
   I worked on this project in September 2020.
