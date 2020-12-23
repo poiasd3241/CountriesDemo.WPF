@@ -9,8 +9,7 @@
   <br>
   I am constantly working on improving my skills and in my next project (https://github.com/poiasd3241/DeliveriesDemo) I implemented MVVM design pattern as well as Dependency Injection.
 <p/>
----
-___
+-------------------------------------------------------------
 <p>
   В этом WPF .NET Core проекте я выполнял API запросы, десериализовывал JSON и работал с базой данных SQL Server.
 <p/>
