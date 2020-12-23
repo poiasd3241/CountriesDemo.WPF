@@ -7,7 +7,7 @@
   <br>
   The project structure is highly inefficient, hard to scale and prevents unit testing.
   <br>
-  I am constantly working on improving my skills and in my next project [asd](https://github.com/poiasd3241/DeliveriesDemo) I implemented MVVM design pattern as well as Dependency Injection.
+  I am constantly working on improving my skills and in my next project (https://github.com/poiasd3241/DeliveriesDemo) I implemented MVVM design pattern as well as Dependency Injection.
 <p/>
 -----
 <p>
